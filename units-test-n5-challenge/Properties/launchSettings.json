@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "units-test-n5-challenge": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "IntegrationTests"
+      }
+    }
+  }
+}

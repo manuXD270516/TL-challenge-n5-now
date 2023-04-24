@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "integration_tests_n5_challenge": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "IntegrationTests"
+      },
+      "applicationUrl": "http://localhost:53950/"
+    }
+  }
+}

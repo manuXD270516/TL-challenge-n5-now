@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Persistence": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "IntegrationTests"
+      }
+    }
+  }
+}
